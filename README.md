@@ -31,7 +31,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 ```bash
 pip install opencv-python numpy
 ```
-
+### NOTE: create a file named "datasets" before running as the program, to store the face data.
 ### 4️⃣ Run the Project
 #### Collect Face Data
 ```bash
